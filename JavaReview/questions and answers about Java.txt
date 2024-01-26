@@ -1,0 +1,54 @@
+*********** Encapsulation  ***********
+What are instance variables initialized to? 
+
+
+
+What is the scope of instance variables (where can they be accessed)?
+
+
+
+What are static variables and methods? 
+
+
+
+*********** Inheritance (and encapsulation) ***********
+Can a subclass access private instance variables of a superclass directly? 
+
+
+
+Can a subclass access private instance variables of a superclass indirectly,
+via a method? 
+
+
+*********** Inheritance ****************
+If A is a superclass of B, what methods can you call on A: A's methods, 
+methods defined in both A and B, methods defined only in B? 
+
+
+
+For each cases when you can call the method, which method will actually 
+be called? 
+
+
+
+What determines the most specific ("true") type of an object? 
+
+
+
+************** Abstract classes *****************
+How do you initialize a variable of an abstract class?
+
+
+
+What methods can you call on a variable of an abstract class? 
+What method will actually be called? 
+
+
+
+
+
+
+
+
+
+
